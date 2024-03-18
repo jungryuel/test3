@@ -1,1 +1,5 @@
 김정렬
+
+git add
+
+git commit -m "test"
